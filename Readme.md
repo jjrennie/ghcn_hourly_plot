@@ -23,3 +23,4 @@ The "easiest" way is to install these is by installing <a href='https://www.anac
 Assuming you did the above, it should (in theory) import everything no problem:
 
 ### Launch right now with Binder!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjrennie/ghcn_hourly_plot/HEAD?urlpath=%2Fdoc%2Ftree%2Fghcnh_plot_parquet.ipynb)
